@@ -1,9 +1,7 @@
 # Moongazer Configuration Manager
 
 ## Overview
-Moongazer Configuration Manager is an Express.js-based backend service designed to provide information about crypto.  
-This project leverages modern JavaScript with ES modules and includes a variety of dependencies for security, validation, database interaction, and more.
-
+This is for Practice.
 ---
 
 ## Features
